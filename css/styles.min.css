@@ -508,7 +508,8 @@ header ul.primary-nav li a {
 }
 
 header ul.primary-nav li a:hover {
-    color: #e86fd4
+    color: white;
+    font-weight: bold;
 
 }
 
